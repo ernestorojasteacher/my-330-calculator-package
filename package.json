@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestorojasteacher/my-330-calculator-package"
+  },
+  "bugs": {
+    "url": "https://github.com/ernestorojasteacher/my-330-calculator-package/issues"
+  },
   "license": "ISC"
 }
